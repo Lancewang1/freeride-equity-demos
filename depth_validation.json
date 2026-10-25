@@ -1,0 +1,11 @@
+{
+  "financial_reconciliation": true,
+  "scenario_directions": true,
+  "reverse_identity": true,
+  "invalid_inputs_rejected": true,
+  "browser_errors": [],
+  "charts": 6,
+  "python_javascript_agree": true,
+  "desktop_mobile_no_overflow": true,
+  "local_links_exist": true
+}

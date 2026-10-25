@@ -1,0 +1,68 @@
+[
+  {
+    "id": "S1",
+    "title": "World Bank · October 2026 Pink Sheet / Monthly Prices",
+    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+    "scope": "1960–2026-09；月均美元价，2026-10 发布"
+  },
+  {
+    "id": "S2",
+    "title": "FRED · 10Y TIPS real yield",
+    "url": "https://fred.stlouisfed.org/series/DFII10",
+    "scope": "至 10-22；实际收益率 %"
+  },
+  {
+    "id": "S3",
+    "title": "FRED · Broad trade-weighted US dollar",
+    "url": "https://fred.stlouisfed.org/series/DTWEXBGS",
+    "scope": "至 10-16；不是 DXY"
+  },
+  {
+    "id": "S4",
+    "title": "WGC · September ETF holdings and flows",
+    "url": "https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/10",
+    "scope": "10-07 发布；9 月及 Q3"
+  },
+  {
+    "id": "S5",
+    "title": "WGC · Gold Demand Trends Q2 2026",
+    "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026",
+    "scope": "Q2 全球黄金需求、供给"
+  },
+  {
+    "id": "S6",
+    "title": "Tushare / SGE / SHFE",
+    "url": "https://tushare.pro/document/2",
+    "scope": "复用 Au99.99、仓单；新增 CU 主力结算、合约映射及截面、PMI、A股收盘价；各截止日见表"
+  },
+  {
+    "id": "S7",
+    "title": "USGS · Mineral Commodity Summaries 2026: Copper",
+    "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-copper.pdf",
+    "scope": "2025e；千吨，全球矿产/精炼供给"
+  },
+  {
+    "id": "S8",
+    "title": "紫金矿业 2026Q3 报告",
+    "url": "sources/zijin_q3_2026.pdf",
+    "scope": "10-24 披露；p1 财务，p5 项目，p6 产量，p7 量价成本，p15 现金流"
+  },
+  {
+    "id": "S9",
+    "title": "紫金矿业 2026H1 报告",
+    "url": "sources/601899_1225550244.pdf",
+    "scope": "沿用原 Demo 中报；量价成本 p13–14，现金流 p49"
+  },
+  {
+    "id": "S10",
+    "title": "JPM 10-07 / 10-09 / 10-21 与 GS 01-28",
+    "url": "sources/research_citations.json",
+    "scope": "JPM 营销反馈、Q3 preview p4、10-21 NBS 报告 p7；GS 年初产量假设。仅公开短事实引用与索引，不转发报告原文"
+  },
+  {
+    "id": "S11",
+    "title": "Eastmoney · COMEX 黄金库存 / SHFE 仓单旁证",
+    "url": "https://data.eastmoney.com/",
+    "scope": "复用既有第三方序列；COMEX STORAGE_TON 至 10-21，境内铜 ON_WARRANT_NUM 至 10-23；铜重叠期与 Tushare 独立核对。第三方不冒称交易所原始公告。"
+  }
+]

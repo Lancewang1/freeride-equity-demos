@@ -1,0 +1,144 @@
+[
+  {
+    "file": "worldbank_monthly.xlsx",
+    "url": "https://thedocs.worldbank.org/en/doc/5d903e848db1d1b83e0ec8f744e55570-0350012021/related/CMO-Historical-Data-Monthly.xlsx",
+    "http_status": 200,
+    "bytes": 765246,
+    "retrieved_at": "2026-10-25T08:48:57.241085+00:00",
+    "sha256": "bd89b83eeceadaecb803018c104f76b316d2df3fae28ef7afde48021100c7e11",
+    "usage": "not used: stale file"
+  },
+  {
+    "file": "DFII10.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFII10&cosd=2021-01-01&coed=2026-10-23",
+    "http_status": 200,
+    "bytes": 24331,
+    "retrieved_at": "2026-10-25T08:48:58.487173+00:00",
+    "sha256": "f4ccae3a1d7738e3431bd7d20e5c74d273f3afd1fe65852da249b08b5eae38d9",
+    "usage": "source archive retained locally"
+  },
+  {
+    "file": "DTWEXBGS.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTWEXBGS&cosd=2021-01-01&coed=2026-10-23",
+    "http_status": 200,
+    "bytes": 29730,
+    "retrieved_at": "2026-10-25T08:48:57.769718+00:00",
+    "sha256": "0e881a5c01767b45f319fe116784b0b8ac4fe093078a2cc4acf4fc3c3f317b53",
+    "usage": "source archive retained locally"
+  },
+  {
+    "file": "T10YIE.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10YIE&cosd=2021-01-01&coed=2026-10-23",
+    "http_status": 200,
+    "bytes": 24016,
+    "retrieved_at": "2026-10-25T08:48:58.519768+00:00",
+    "sha256": "d61ed4f2cac05e288ad27f19ad4870d4429036e450e4b64ad3aa13c151eb6c5e",
+    "usage": "source archive retained locally"
+  },
+  {
+    "file": "DGS10.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10&cosd=2021-01-01&coed=2026-10-23",
+    "http_status": 200,
+    "bytes": 23999,
+    "retrieved_at": "2026-10-25T08:48:58.112920+00:00",
+    "sha256": "f264a5621cc96100373d9f5df4c202735f5ea734c6587aea2f1e7b90ad613e0d",
+    "usage": "source archive retained locally"
+  },
+  {
+    "file": "INDPRO.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=INDPRO&cosd=2021-01-01&coed=2026-10-23",
+    "http_status": 200,
+    "bytes": 1391,
+    "retrieved_at": "2026-10-25T08:48:58.417543+00:00",
+    "sha256": "2145700b69271c7e6e4a2864c6d1dea4683bc63f96a11a9facade775c631294c",
+    "usage": "source archive retained locally"
+  },
+  {
+    "file": "worldbank_monthly_current.xlsx",
+    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+    "http_status": 200,
+    "bytes": 586099,
+    "retrieved_at": "2026-10-25T08:50:19.045566+00:00",
+    "sha256": "ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154",
+    "usage": "source archive retained locally"
+  },
+  {
+    "file": "worldbank_oct2026.pdf",
+    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Pink-Sheet-October-2026.pdf",
+    "http_status": 200,
+    "bytes": 267820,
+    "retrieved_at": "2026-10-25T08:50:19.040978+00:00",
+    "sha256": "1b6bb6961c8a317dfe49afb49c2a0eaf83b5460fc4337fe70a1ecd291cfde2bd",
+    "usage": "source archive retained locally"
+  },
+  {
+    "file": "wgc_etf.html",
+    "url": "https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/10",
+    "http_status": 200,
+    "bytes": 81364,
+    "retrieved_at": "2026-10-25T08:50:19.018709+00:00",
+    "sha256": "53033048ca84341b1f37d62cf9be0d201079199126ccfdd8ee048fe86f86b259",
+    "usage": "source archive retained locally"
+  },
+  {
+    "file": "wgc_q2.html",
+    "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026",
+    "http_status": 200,
+    "bytes": 86606,
+    "retrieved_at": "2026-10-25T08:50:19.000166+00:00",
+    "sha256": "80f444aee118355c919f053f6b635fb6567f6c86d5283a74536d4792a81d08e0",
+    "usage": "source archive retained locally"
+  },
+  {
+    "file": "icsg.html",
+    "url": "https://icsg.org/press-releases/",
+    "http_status": 403,
+    "bytes": 162,
+    "retrieved_at": "2026-10-25T08:50:20.061556+00:00",
+    "sha256": "1d08335e65da7cf40d1c4a7ba0088e0f39b9c5a4b2e42de95fc9ffa69fb96c7a",
+    "usage": "unavailable"
+  },
+  {
+    "file": "comex_copper.xls",
+    "url": "https://www.cmegroup.com/delivery_reports/Copper_Stocks.xls",
+    "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=35)",
+    "usage": "unavailable"
+  },
+  {
+    "file": "zijin_q3_1225620996.pdf",
+    "title": "紫金矿业集团股份有限公司2026年第三季度报告",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-24/1225620996.PDF",
+    "announcement_time_ms": 1792771200000,
+    "sha256": "ba1ba80534ed7f59b3d75b355009cfb3927129e227077544160fe4facae84733"
+  },
+  {
+    "file": "cu_daily.json",
+    "source": "Tushare Pro, authorized collection",
+    "sha256": "559d5385e4c4b3b7d7ca7bf66aeb146a29ef4e5c6e674a37466017dfab9d251d",
+    "public_payload": "selected observations only; raw response retained locally"
+  },
+  {
+    "file": "cu_mapping.json",
+    "source": "Tushare Pro, authorized collection",
+    "sha256": "268b62b73329c330988b24a15e5534cee95c6a91803e25712381e009f3f02337",
+    "public_payload": "selected observations only; raw response retained locally"
+  },
+  {
+    "file": "pmi.json",
+    "source": "Tushare Pro, authorized collection",
+    "sha256": "5250b6cfecf3a55898ed7bc7ffebc54cfce08fa69fb760fd1c5a4458d3d65b25",
+    "public_payload": "selected observations only; raw response retained locally"
+  },
+  {
+    "file": "zijin_daily.json",
+    "source": "Tushare Pro, authorized collection",
+    "sha256": "2e175ff5dff8b34823a94ff26ad95fcef29b683e31813f5c3b12ad1a59e26de0",
+    "public_payload": "selected observations only; raw response retained locally"
+  },
+  {
+    "file": "shfe_curve_20261023.json",
+    "source": "Tushare Pro, authorized collection",
+    "sha256": "22993653ce3a35e8f5f3a10f8ba07f1ceead3010b300ae0e654a68ce96215934",
+    "public_payload": "selected observations only; raw response retained locally"
+  }
+]

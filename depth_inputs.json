@@ -1,0 +1,92 @@
+{
+  "asof": "2026-10-25",
+  "np_9m": 57525672087,
+  "np_q3": 18355864844,
+  "core_q3": 17807625262,
+  "pbt_q3": 30118095192,
+  "cfo_q3": 28804628228,
+  "cfo_9m": 84276321162,
+  "capex_9m": 18969617850,
+  "shares_assumed": 26590714622,
+  "shares_note": "H1 disclosed total shares, held constant for demonstration; not FY weighted/diluted shares",
+  "close": 28.79,
+  "close_date": "2026-10-23",
+  "consensus_price": 29.06,
+  "consensus_pe": 9.5,
+  "consensus_date": "2026-10-20",
+  "broker_q3_forecast": 20524000000,
+  "nine_month_products": [
+    {
+      "q": 40663,
+      "p": 995.77,
+      "c": 356.96,
+      "metal": "gold"
+    },
+    {
+      "q": 26130,
+      "p": 903.25,
+      "c": 207.6,
+      "metal": "gold"
+    },
+    {
+      "q": 547769,
+      "p": 84545,
+      "c": 25075,
+      "metal": "copper"
+    },
+    {
+      "q": 69930,
+      "p": 91828,
+      "c": 37904,
+      "metal": "copper"
+    },
+    {
+      "q": 87208,
+      "p": 92327,
+      "c": 38870,
+      "metal": "copper"
+    },
+    {
+      "q": 33602,
+      "p": 127719,
+      "c": 48416,
+      "metal": "lithium"
+    },
+    {
+      "q": 254468,
+      "p": 18392,
+      "c": 9941,
+      "metal": "zinc"
+    },
+    {
+      "q": 342961,
+      "p": 12.81,
+      "c": 2.34,
+      "metal": "silver"
+    },
+    {
+      "q": 29455,
+      "p": 69107,
+      "c": 15202,
+      "metal": "lithium"
+    }
+  ],
+  "scenarios": {
+    "bear": {
+      "gold": -0.1,
+      "copper": -0.08,
+      "volume": -0.05,
+      "cost": 0.05
+    },
+    "base": {
+      "gold": -0.03197631232873788,
+      "copper": 0.02650911124882982
+    },
+    "bull": {
+      "gold": 0.05,
+      "copper": 0.08,
+      "volume": 0.05,
+      "cost": 0
+    }
+  }
+}

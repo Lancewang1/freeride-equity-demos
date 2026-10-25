@@ -1,0 +1,6 @@
+interface:
+  display_name: "FREERIDE 有色股票研究"
+  short_description: "基于可追溯证据，将有色行业经营驱动转化为盈利、现金流、估值与证伪条件"
+  default_prompt: "使用 $freeride-nonferrous-equity 研究指定A股或港股公司，核对经营数据，完成盈利情景、估值与关键争议分析。"
+policy:
+  allow_implicit_invocation: true
