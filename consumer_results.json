@@ -1,0 +1,61 @@
+{
+  "derived_actuals": {
+    "revenue_growth": 0.07890589777646007,
+    "np_growth": 0.004746022945366191,
+    "same_store_growth": -0.01340915626123007,
+    "cfo_growth": -0.1314255557010957,
+    "net_margin": 0.07910097307120333,
+    "prior_net_margin": 0.08493938210991932,
+    "cash_after_ppe_intangibles_rou_lease_interest": 1047118
+  },
+  "scenarios": [
+    {
+      "name": "压力",
+      "h2_revenue": 21137842.08,
+      "h2_material": 9001961.357832234,
+      "h2_labor": 6973812.414573647,
+      "h2_other_expenses": 1534690.757205589,
+      "h2_pbt": 1786007.9279358247,
+      "h2_tax": 553949.5432534467,
+      "h2_np": 1234950.384682378,
+      "fy_revenue": 43474748.08,
+      "fy_np": 3001821.384682378,
+      "eps_CNY": 0.5543040493715196,
+      "pe_assumption": 12,
+      "value_CNY_per_share": 6.651648592458235,
+      "status": "illustrative_conditional_scenario"
+    },
+    {
+      "name": "中性",
+      "h2_revenue": 23333136.89,
+      "h2_material": 9703539.000641044,
+      "h2_labor": 7286912.9370228965,
+      "h2_other_expenses": 1577412.139869509,
+      "h2_pbt": 2839898.043236642,
+      "h2_tax": 880824.8828746643,
+      "h2_np": 1961965.1603619778,
+      "fy_revenue": 45670042.89,
+      "fy_np": 3728836.1603619778,
+      "eps_CNY": 0.688551621918135,
+      "pe_assumption": 16,
+      "value_CNY_per_share": 11.01682595069016,
+      "status": "illustrative_conditional_scenario"
+    },
+    {
+      "name": "改善",
+      "h2_revenue": 25030121.560000002,
+      "h2_material": 10284112.488425132,
+      "h2_labor": 7556358.57247107,
+      "h2_other_expenses": 1642074.757728295,
+      "h2_pbt": 3557264.160181824,
+      "h2_tax": 1103323.6896333548,
+      "h2_np": 2456832.4705484696,
+      "fy_revenue": 47367027.56,
+      "fy_np": 4223703.47054847,
+      "eps_CNY": 0.7799317937490411,
+      "pe_assumption": 20,
+      "value_CNY_per_share": 15.598635874980822,
+      "status": "illustrative_conditional_scenario"
+    }
+  ]
+}

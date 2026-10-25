@@ -1,0 +1,138 @@
+{
+  "actuals": {
+    "period": "2026H1",
+    "currency": "CNY",
+    "monetary_unit": "thousand",
+    "filing_id": "HK06862_1225576398",
+    "financial_page": 50,
+    "revenue": 22336906,
+    "prior_revenue": 20703294,
+    "np": 1766871,
+    "prior_np": 1758525,
+    "group_profit": 1763979,
+    "pbt": 2557087,
+    "tax": 793108,
+    "material": 9289237,
+    "labor": 7093266,
+    "rent": 224831,
+    "utilities": 728516,
+    "da": 907929,
+    "travel": 126228,
+    "other_expenses": 1510063,
+    "other_income": 259794,
+    "associate": 20435,
+    "other_gains": -96506,
+    "finance_cost": 83472,
+    "shares_thousand": 5415478,
+    "shares_page": 69,
+    "cfo": 2281078,
+    "prior_cfo": 2626232,
+    "ppe": 777565,
+    "intangibles": 11227,
+    "rou_cash": 5271,
+    "lease_principal": 433944,
+    "interest_financing": 5953,
+    "cash_pages": [
+      57,
+      58
+    ],
+    "same_store_sales": [
+      16348861,
+      16571065
+    ],
+    "same_store_page": 21,
+    "same_store_count": 1163,
+    "same_store_rule": "比较前开业且两期各营业150天及以上",
+    "segments": [
+      {
+        "name": "主品牌餐厅",
+        "current": 17836692,
+        "prior": 18580166,
+        "source_page": 18
+      },
+      {
+        "name": "外卖",
+        "current": 2051445,
+        "prior": 927620,
+        "source_page": 18
+      },
+      {
+        "name": "其他餐厅",
+        "current": 1271364,
+        "prior": 596548,
+        "source_page": 18
+      },
+      {
+        "name": "调味品食材",
+        "current": 902201,
+        "prior": 463724,
+        "source_page": 18
+      },
+      {
+        "name": "加盟业务",
+        "current": 254278,
+        "prior": 90849,
+        "source_page": 18
+      },
+      {
+        "name": "其他",
+        "current": 20926,
+        "prior": 44387,
+        "source_page": 18
+      }
+    ]
+  },
+  "scenario_assumptions": [
+    {
+      "name": "压力",
+      "segment_growth_vs_H1": [
+        -0.06,
+        -0.1,
+        0.05,
+        0,
+        0.05,
+        0
+      ],
+      "material_ratio_delta": 0.01,
+      "labor_volume_elasticity": 0.5,
+      "fixed_labor_inflation": 0.02,
+      "other_expense_ratio_delta": 0.005,
+      "pe": 12
+    },
+    {
+      "name": "中性",
+      "segment_growth_vs_H1": [
+        0.02,
+        0.15,
+        0.15,
+        0.1,
+        0.2,
+        0
+      ],
+      "material_ratio_delta": 0,
+      "labor_volume_elasticity": 0.5,
+      "fixed_labor_inflation": 0.01,
+      "other_expense_ratio_delta": 0,
+      "pe": 16
+    },
+    {
+      "name": "改善",
+      "segment_growth_vs_H1": [
+        0.08,
+        0.3,
+        0.3,
+        0.2,
+        0.35,
+        0
+      ],
+      "material_ratio_delta": -0.005,
+      "labor_volume_elasticity": 0.5,
+      "fixed_labor_inflation": 0.01,
+      "other_expense_ratio_delta": -0.002,
+      "pe": 20
+    }
+  ],
+  "assumptions_origin": "FREERIDE演示假设，非管理层指引/卖方预测/概率分布",
+  "period_rule": "2026H1实际+2026H2相对H1情景；未校准历史下半年季节性",
+  "held_constant": "租金、折旧、其他收入、联营损益、其他收益、融资成本及少数股东差额维持H1；人工50%随收入、50%固定，税率沿用H1；股本沿用H1加权平均仅作演示"
+}

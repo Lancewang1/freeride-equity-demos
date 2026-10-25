@@ -1,0 +1,194 @@
+{
+  "actuals": {
+    "revenue": 194178458630,
+    "prior_revenue": 167710853231,
+    "np": 39169807243,
+    "prior_np": 23291752471,
+    "core_np": 38034770076,
+    "prior_core_np": 21623977106,
+    "total_profit": 49812693016,
+    "pbt": 63489448069,
+    "cfo": 55471692934,
+    "prior_cfo": 28829856948,
+    "capex_cash": 12942927636,
+    "prior_capex_cash": 10153422110,
+    "eps": 1.473,
+    "diluted_eps": 1.434,
+    "financial_page": 6,
+    "cash_page": 49,
+    "mined_cu": [
+      534407,
+      566853
+    ],
+    "cu_ex_kamoa": [
+      480032,
+      457913
+    ],
+    "currency": "CNY",
+    "monetary_unit": "yuan",
+    "filing_id": "601899_1225550244"
+  },
+  "mining_sales": [
+    {
+      "scope": "矿山产金/金锭",
+      "quantity": 27424,
+      "quantity_unit": "千克",
+      "price": 1034.09,
+      "cost": 347.3,
+      "price_unit": "元/克",
+      "quantity_to_price_unit_factor": 1000,
+      "gross_profit_CNY": 18834528960.0,
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_filing_id": "601899_1225550244"
+    },
+    {
+      "scope": "矿山产金/金精矿",
+      "quantity": 16756,
+      "quantity_unit": "千克",
+      "price": 961.3,
+      "cost": 199.15,
+      "price_unit": "元/克",
+      "quantity_to_price_unit_factor": 1000,
+      "gross_profit_CNY": 12770585400.0,
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_filing_id": "601899_1225550244"
+    },
+    {
+      "scope": "矿山产铜/铜精矿",
+      "quantity": 353831,
+      "quantity_unit": "吨",
+      "price": 82624,
+      "cost": 24480,
+      "price_unit": "元/吨",
+      "quantity_to_price_unit_factor": 1,
+      "gross_profit_CNY": 20573149664,
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_filing_id": "601899_1225550244"
+    },
+    {
+      "scope": "矿山产铜/电积铜",
+      "quantity": 46845,
+      "quantity_unit": "吨",
+      "price": 90734,
+      "cost": 36620,
+      "price_unit": "元/吨",
+      "quantity_to_price_unit_factor": 1,
+      "gross_profit_CNY": 2534970330,
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_filing_id": "601899_1225550244"
+    },
+    {
+      "scope": "矿山产铜/电解铜",
+      "quantity": 59120,
+      "quantity_unit": "吨",
+      "price": 90524,
+      "cost": 38513,
+      "price_unit": "元/吨",
+      "quantity_to_price_unit_factor": 1,
+      "gross_profit_CNY": 3074890320,
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_filing_id": "601899_1225550244"
+    },
+    {
+      "scope": "矿山产锂/锂盐",
+      "quantity": 22021,
+      "quantity_unit": "吨",
+      "price": 130778,
+      "cost": 49912,
+      "price_unit": "元/吨",
+      "quantity_to_price_unit_factor": 1,
+      "gross_profit_CNY": 1780750186,
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_filing_id": "601899_1225550244"
+    },
+    {
+      "scope": "矿山产锌",
+      "quantity": 171897,
+      "quantity_unit": "吨",
+      "price": 17539,
+      "cost": 9692,
+      "price_unit": "元/吨",
+      "quantity_to_price_unit_factor": 1,
+      "gross_profit_CNY": 1348875759,
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_filing_id": "601899_1225550244"
+    },
+    {
+      "scope": "矿山产银",
+      "quantity": 225232,
+      "quantity_unit": "千克",
+      "price": 13.95,
+      "cost": 2.28,
+      "price_unit": "元/克",
+      "quantity_to_price_unit_factor": 1000,
+      "gross_profit_CNY": 2628457440.0,
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_filing_id": "601899_1225550244"
+    },
+    {
+      "scope": "矿山产锂/锂精矿",
+      "quantity": 14265,
+      "quantity_unit": "吨LCE",
+      "price": 76974,
+      "cost": 16307,
+      "price_unit": "元/吨LCE",
+      "quantity_to_price_unit_factor": 1,
+      "gross_profit_CNY": 865414755,
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_filing_id": "601899_1225550244"
+    }
+  ],
+  "scenario_assumptions": [
+    {
+      "name": "压力",
+      "price_change": -0.1,
+      "sales_volume_change": -0.05,
+      "unit_cost_change": 0.05,
+      "pe": 10
+    },
+    {
+      "name": "中性",
+      "price_change": 0,
+      "sales_volume_change": 0.03,
+      "unit_cost_change": 0.02,
+      "pe": 14
+    },
+    {
+      "name": "改善",
+      "price_change": 0.1,
+      "sales_volume_change": 0.08,
+      "unit_cost_change": 0,
+      "pe": 18
+    }
+  ],
+  "assumptions_origin": "FREERIDE演示压力测试，非研究员目标价或商品价格预测",
+  "scope": "选定矿产产品抵销前单位毛利变化；假设增量全部传导至集团，未重建内部抵销；其他业务和费用不变，税率与归母比例沿用H1；H2基线用H1扣非归母，H1用实际归母",
+  "eps_method": "使用已披露四舍五入EPS按利润比例缩放，非精确股本预测；正式报价需更新加权股本、可转债与FX"
+}

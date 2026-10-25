@@ -1,0 +1,51 @@
+{
+  "derived_actuals": {
+    "revenue_growth": 0.157816890732434,
+    "np_growth": 0.6817028813855628,
+    "core_np_growth": 0.7589164976245975,
+    "cfo_growth": 0.9241057294891715,
+    "cfo_less_capex": 42528765298,
+    "copper_production_growth": -0.05723882558617488,
+    "copper_ex_kamoa_growth": 0.04830393546372336,
+    "effective_tax_rate": 0.21541776577008787,
+    "parent_profit_share": 0.7863418914215003
+  },
+  "copper_concentrate_gp_bridge_CNY": {
+    "volume": 911856000,
+    "price": 7879816370,
+    "unit_cost": -1194533456,
+    "total": 7597138914
+  },
+  "scenarios": [
+    {
+      "name": "压力",
+      "h2_selected_mining_gp_delta_CNY": -13475994921.697502,
+      "h2_parent_np_CNY": 29720756652.590317,
+      "fy_parent_np_CNY": 68890563895.59032,
+      "eps_CNY_approx": 2.590663772958423,
+      "pe_assumption": 10,
+      "value_CNY_per_share_approx": 25.906637729584233,
+      "status": "partial_driver_conditional_scenario"
+    },
+    {
+      "name": "中性",
+      "h2_selected_mining_gp_delta_CNY": 1334397961.3213913,
+      "h2_parent_np_CNY": 38858026735.49413,
+      "fy_parent_np_CNY": 78027833978.49414,
+      "eps_CNY_approx": 2.9342753396076975,
+      "pe_assumption": 14,
+      "value_CNY_per_share_approx": 41.079854754507764,
+      "status": "partial_driver_conditional_scenario"
+    },
+    {
+      "name": "改善",
+      "h2_selected_mining_gp_delta_CNY": 15244272375.180014,
+      "h2_parent_np_CNY": 47439722058.6767,
+      "fy_parent_np_CNY": 86609529301.6767,
+      "eps_CNY_approx": 3.256994242272375,
+      "pe_assumption": 18,
+      "value_CNY_per_share_approx": 58.62589636090276,
+      "status": "partial_driver_conditional_scenario"
+    }
+  ]
+}
