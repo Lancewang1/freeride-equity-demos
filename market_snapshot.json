@@ -1,0 +1,28 @@
+{
+  "consumer": {
+    "source_id": "R06",
+    "snapshot_date": "2026-10-08",
+    "price_HKD": 9.24,
+    "consensus_pe_2026": 10.4,
+    "consensus_pe_2027": 9.5,
+    "provider": "Bloomberg consensus as reproduced by JPM; contributor count and EPS adjustment basis not disclosed"
+  },
+  "nonferrous": {
+    "source_id": "R13",
+    "snapshot_date": "2026-10-20",
+    "price_A_CNY": 29.06,
+    "price_H_HKD": 30.82,
+    "consensus_pe_A_2026": 9.5,
+    "consensus_pe_A_2027": 8.4,
+    "consensus_pe_H_2026": 8.6,
+    "consensus_pe_H_2027": 7.5,
+    "provider": "Bloomberg consensus as reproduced by JPM; contributor count and EPS adjustment basis not disclosed"
+  },
+  "fx_anchor": {
+    "source": "HKMA",
+    "observation_date": "2026-09-30",
+    "HKD_per_CNY": 1.17025,
+    "status": "dated anchor; not same-day FX"
+  },
+  "scope": "Historical market snapshots paired with 2026H1 actuals for a research demonstration, not a live updated recommendation. EPS inferred from rounded PE is approximate; benchmark earnings comparison requires accounting-basis and FX reconciliation."
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "R04",
+    "institution": "Goldman Sachs",
+    "report_date": "2026-09-09",
+    "title": "China Consumer: 2Q26 and ALC wrap-up",
+    "physical_pages": "p4、6、14",
+    "sha256": "ff71873e0ab1d439dd4e0e2d95e2d5728582831a9c0b986e72460cfa75ea6168",
+    "availability": "User-held research; citation and limited factual inputs only. Original report, screenshots, personal watermarks and full extracted text are not redistributed."
+  },
+  {
+    "id": "R06",
+    "institution": "J.P. Morgan",
+    "report_date": "2026-10-08",
+    "title": "China Consumer: Davis Double Kill decomposed",
+    "physical_pages": "p2、6",
+    "sha256": "88ffb0a373e07fca05c9a52d9a30b6b521c4521ed1d0e92c6194d5d7397ed6b7",
+    "availability": "User-held research; citation and limited factual inputs only. Original report, screenshots, personal watermarks and full extracted text are not redistributed."
+  },
+  {
+    "id": "R09",
+    "institution": "J.P. Morgan",
+    "report_date": "2026-10-16",
+    "title": "China Consumer: Shanghai Marketing Feedback",
+    "physical_pages": "p1",
+    "sha256": "a7950f538fc8c7badd25944d8353b5a83aa6022dcda5270ebfe821aee9e3e5e8",
+    "availability": "User-held research; citation and limited factual inputs only. Original report, screenshots, personal watermarks and full extracted text are not redistributed."
+  },
+  {
+    "id": "R11",
+    "institution": "J.P. Morgan",
+    "report_date": "2026-10-07",
+    "title": "China Basic Materials: Marketing feedback from the US and UK",
+    "physical_pages": "p1",
+    "sha256": "99e462d4e9320a5c4fac350865ba7c6df6e024773cc8ed1bd6965064912e1057",
+    "availability": "User-held research; citation and limited factual inputs only. Original report, screenshots, personal watermarks and full extracted text are not redistributed."
+  },
+  {
+    "id": "R12",
+    "institution": "J.P. Morgan",
+    "report_date": "2026-10-09",
+    "title": "China Basic Materials: 3Q26 Earnings Preview",
+    "physical_pages": "p1、4",
+    "sha256": "9e81ec8102695807aa75bcfef56857a58743c8990e468047529b1ddca57425a3",
+    "availability": "User-held research; citation and limited factual inputs only. Original report, screenshots, personal watermarks and full extracted text are not redistributed."
+  },
+  {
+    "id": "R13",
+    "institution": "J.P. Morgan",
+    "report_date": "2026-10-21",
+    "title": "China Basic Materials: September 26 NBS data",
+    "physical_pages": "p7、10",
+    "sha256": "16a2aedb10acb0a0974af273b2d26f6921da50ab0e3dae30713cc6f705121060",
+    "availability": "User-held research; citation and limited factual inputs only. Original report, screenshots, personal watermarks and full extracted text are not redistributed."
+  }
+]

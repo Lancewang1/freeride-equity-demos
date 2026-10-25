@@ -1,0 +1,63 @@
+{
+  "consumer": {
+    "implied_consensus_eps_HKD_2026": 0.8884615384615384,
+    "implied_consensus_eps_HKD_2027": 0.9726315789473684,
+    "consensus_eps_growth_2027": 0.09473684210526323,
+    "conditional_consensus_np_CNY_thousand": 4111466.708297043,
+    "required_h2_np_CNY_thousand": 2344595.708297043,
+    "required_h2_growth_vs_H1": 0.32697616764157833,
+    "required_h2_margin_at_neutral_revenue": 0.10048351918347842,
+    "neutral_vs_benchmark": -0.09306424570163907,
+    "required_material_ratio_reduction_pp": 2.3771610432475865,
+    "required_main_sales_growth_vs_H1": 0.11733558847659681,
+    "main_sales_plus_1pct_h2_np_CNY_thousand": 39310.44686980697,
+    "material_ratio_minus_1pp_h2_np_CNY_thousand": 160961.13850676693,
+    "neutral_break_even_PE": 11.467184914377784,
+    "scenario_value_HKD_same_consensus_PE": [
+      6.746212863281016,
+      8.380086369716855,
+      9.49223788900208
+    ],
+    "neutral_eps_fx_to_match_benchmark": 1.2903339563510194,
+    "fx_sensitivity": [
+      {
+        "fx": 1.15,
+        "benchmark_np_CNY_thousand": 4183864.2742474917,
+        "neutral_gap": -0.10875785734405907
+      },
+      {
+        "fx": 1.17025,
+        "benchmark_np_CNY_thousand": 4111466.708297043,
+        "neutral_gap": -0.09306424570163907
+      },
+      {
+        "fx": 1.2,
+        "benchmark_np_CNY_thousand": 4009536.5961538465,
+        "neutral_gap": -0.07000819896771371
+      }
+    ]
+  },
+  "nonferrous": {
+    "implied_consensus_eps_A_CNY_2026": 3.0589473684210526,
+    "implied_consensus_eps_A_CNY_2027": 3.4595238095238092,
+    "consensus_eps_growth_A_2027": 0.13095238095238093,
+    "conditional_consensus_np_CNY": 81343094899.8878,
+    "required_h2_np_CNY": 42173287656.8878,
+    "neutral_vs_benchmark": -0.04075651320464124,
+    "required_copper_realized_price_change_vs_H1": 0.13433318231248087,
+    "copper_plus_1pct_h2_np_CNY": 246793894.42898956,
+    "scenario_value_A_CNY_same_consensus_PE": [
+      24.611305843105015,
+      27.875615726273125,
+      30.941445301587564
+    ],
+    "neutral_break_even_PE_A": 9.903637742423047,
+    "single_broker_FY_np_CNY": 81636807243,
+    "historical_copper_bridge": {
+      "volume": 911856000,
+      "price": 7879816370,
+      "unit_cost": -1194533456,
+      "total": 7597138914
+    }
+  }
+}
