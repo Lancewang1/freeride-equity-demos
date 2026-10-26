@@ -1,0 +1,55 @@
+{
+  "framework_updated": "2026-10-26",
+  "evidence_cutoff": "2026-10-25",
+  "new_market_data_collected": false,
+  "capex_9m_yoy": 0.24963489134096406,
+  "capex_9m_current": 18969617850,
+  "capex_9m_prior": 15180128197,
+  "capex_q3": 6026690214,
+  "capex_q3_prior": 5026706087,
+  "cfo_capex_9m": 4.442699996826768,
+  "cfo_capex_q3": 4.779510345676447,
+  "construction_20260930": 37338613962,
+  "construction_20251231": 42049409293,
+  "gold_copper_minus10": {
+    "delta_gp": -4157366055.6999984,
+    "conversion": 0.5912600099202183,
+    "q4_parent": 15349540966.66484,
+    "fy_parent": 72875213053.66484,
+    "eps": 2.740626346061834,
+    "pe_at_close": 10.50489791918188
+  },
+  "pe_thresholds": [
+    {
+      "pe": 8,
+      "required_eps": 3.59875,
+      "required_fy_parent": 95693334245.9225,
+      "required_q4_parent": 38167662158.9225
+    },
+    {
+      "pe": 9.5,
+      "required_eps": 3.0305263157894737,
+      "required_fy_parent": 80583860417.61894,
+      "required_q4_parent": 23058188330.618942
+    },
+    {
+      "pe": 11,
+      "required_eps": 2.617272727272727,
+      "required_fy_parent": 69595152178.85272,
+      "required_q4_parent": 12069480091.852722
+    },
+    {
+      "pe": 13,
+      "required_eps": 2.2146153846153847,
+      "required_fy_parent": 58888205689.79846,
+      "required_q4_parent": 1362533602.798462
+    }
+  ],
+  "source_pages": {
+    "capex": "2026Q3 p15; 2026H1 p49",
+    "construction": "2026Q3 p10, current vs prior year end"
+  },
+  "scope": "Company figures only; not 156-company sector aggregate. Price scenarios are illustrative, not cycle-normalized forecasts.",
+  "capex_q3_yoy": 0.19893427419322274,
+  "construction_ytd": -0.11203000018799814
+}

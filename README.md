@@ -1,4 +1,4 @@
-# FREERIDE AI 股票研究 DEMO · 消费 V2 / 有色深度 V3
+# FREERIDE AI 股票研究 DEMO · 消费 V2 / 有色周期增强 V4
 
 在线展示：https://Lancewang1.github.io/freeride-equity-demos/
 
@@ -20,3 +20,7 @@
 海底捞保留 2026H1 财报及 10-08 市场快照。共识倍数是卖方转引 Bloomberg 表格，EPS 调整定义和样本数未完整披露；由四舍五入 PE 反推的 EPS 仅作条件诊断。海底捞换汇使用 09-30 HKMA 锚，不当作同日汇率。
 
 未包含 API 密钥、内部数据仓库全集或卖方研报原文。公司公告版权归原权利人，原来源见 `sources/source_manifest.json`，新增来源见 `depth_sources.json`，新增原始文件摘要见 `depth_provenance.json`。
+
+## V4 周期增强
+
+2026-10-26 更新框架，事实窗口仍为 10-25。新增周期四问、多维位置仪表、公司资本开支与项目供给、商品/盈利/股价三条时间线、边际需求和结构化判断台账。计算见 `cycle_metrics.json`，未到期监测见 `cycle_ledger.json`。不沿用参考HTML中未核验的行业ROE/分位、确定性顶部结论或概率。
